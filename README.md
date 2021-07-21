@@ -1,9 +1,10 @@
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Neste curso foram utilizadas as seguintes tecnologias:
 
-- PHP
-- CSS
+- PHP;
+- HTML;
+- CSS;
 
 ## 💻 Curso
 
