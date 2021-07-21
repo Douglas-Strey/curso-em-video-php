@@ -10,6 +10,7 @@
     <?php
         $n = 18;
         $no = "Douglas";
+        
         echo "$no tem $n anos!";
     ?>
 </body>
