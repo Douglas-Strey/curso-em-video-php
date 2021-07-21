@@ -13,6 +13,7 @@
         echo "O preço do produto é R$ ". number_format($preco, 2);
 
         $preco += $preco * 10 / 100;
+        
         echo "<br/>O preço do produto com 10% de aumento será: R$ ". number_format($preco, 2, ",", ".");
     ?>
 </body>
