@@ -7,6 +7,7 @@
     <title>Olá Mundo em PHP</title>
 </head>
 <body>
+    
     <h1>Testando PHP</h1>
 
     <?php
