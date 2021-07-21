@@ -13,6 +13,7 @@
         $s = $n1 + $n2;
 
         echo "A soma de todas as variáveis é $s";
+        
     ?>
 </body>
 </html>
