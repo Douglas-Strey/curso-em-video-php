@@ -14,7 +14,7 @@
         {
             $s = $a + $b;
 
-            return $s;
+            return $s; // aqui eu posso remover a variavel $s e retonar simplesmente $a + $b
         }
 
         $x = 3;
