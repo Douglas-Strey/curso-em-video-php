@@ -1,0 +1,13 @@
+strtolower()		Letras para minúsculas
+strtoupper() 	        Letras para maiúsculas
+ucfirst()		        Primeira letra em maiúscula
+ucwords()	        Primeira letra de cada palavra em maiúscula
+strrev()		        Exibe a string ao contrário
+strpos() 		        Posição númerica da string
+stripos()		        strpos() Ignorando maiúsculas ou minúsculas.
+substr_count()	Contagem de aparições de uma palavra.
+substr()		        Fatiamento de string
+str_pad()		       String em comprimento e espaçador personalizados.
+str_repeat()		Repete string.
+str_replace()         Substitui uma string por outra
+str_ireplace()	        str_replace() Ignorando maiúsculas ou minúsculas
