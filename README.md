@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="./assets/certificado-img.png" alt="template"  width="900px"/>
+</p>
+
 ## 🚀 Tecnologias
 
 Neste curso foram utilizadas as seguintes tecnologias:
